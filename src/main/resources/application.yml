@@ -1,0 +1,16 @@
+server:
+  port: 8080
+  servlet:
+    session:
+      cookie:
+        max-age:
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/jsp/
+      suffix: .jsp
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/nike_db?useUnicode=true&useSSL=true&verifyServerCertificate=false&characterEncoding=utf-8&allowMultiQueries=true&serverTimezone=Asia/Shanghai
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
