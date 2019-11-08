@@ -8,7 +8,7 @@
  * 修改单号:  <修改单号>
  * 修改内容:  <修改内容>
  */
-package com.developproject.system.common;
+package com.developproject.refexample.system.common;
 
 /**
  * 前台数据返回对象 

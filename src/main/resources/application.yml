@@ -10,7 +10,16 @@ spring:
       prefix: /WEB-INF/jsp/
       suffix: .jsp
   datasource:
-    url: jdbc:mysql://127.0.0.1:3306/nike_db?useUnicode=true&useSSL=true&verifyServerCertificate=false&characterEncoding=utf-8&allowMultiQueries=true&serverTimezone=Asia/Shanghai
+    url: jdbc:mysql://127.0.0.1:3306/nike_db?characterEncoding=UTF-8&serverTimezone=GMT%2B8&useSSL=false
     username: root
     password: root
-    driver-class-name: com.mysql.jdbc.Driver
+    driver-class-name: com.mysql.cj.jdbc.Driver
+name: 'zx'
+age: 18
+logging:
+  config: G:/developproject/src/main/resources/log4j2-spring.xml
+  level:
+    cn.jay.repository: trace
+mybatis:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl

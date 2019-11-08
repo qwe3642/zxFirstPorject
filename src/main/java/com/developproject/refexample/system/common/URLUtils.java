@@ -1,4 +1,4 @@
-package com.developproject.system.common;
+package com.developproject.refexample.system.common;
 
 import org.apache.commons.lang.StringUtils;
 

@@ -1,4 +1,4 @@
-package com.developproject.system.dto;
+package com.developproject.refexample.system.dto;
 
 public class BasDto {
 

@@ -1,10 +1,10 @@
-package com.developproject.test.mapper;
+package com.developproject.refexample.test.mapper;
 
-import com.developproject.test.dto.JcxxNsztDto;
+import com.developproject.refexample.test.dto.JcxxNsztDto;
+import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
-import org.springframework.stereotype.Component;
 
-@Component
+@Mapper
 public interface JcxxNsztMapper {
 
     @Select("select * from ut_jcxx_nszt where id = #{id}")

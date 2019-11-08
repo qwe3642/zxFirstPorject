@@ -1,7 +1,7 @@
-package com.developproject.test.service;
+package com.developproject.refexample.test.service;
 
-import com.developproject.test.dto.JcxxNsztDto;
-import com.developproject.test.mapper.JcxxNsztMapper;
+import com.developproject.refexample.test.dto.JcxxNsztDto;
+import com.developproject.refexample.test.mapper.JcxxNsztMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

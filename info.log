@@ -1,0 +1,26 @@
+16:13:34.652 [restartedMain] INFO  com.developproject.refexample.RefexampleApplication - Starting RefexampleApplication on PC-201703181226 with PID 11812 (G:\developproject\target\classes started by Administrator in G:\developproject)
+16:13:34.699 [restartedMain] INFO  com.developproject.refexample.RefexampleApplication - No active profile set, falling back to default profiles: default
+16:14:54.075 [restartedMain] INFO  com.developproject.refexample.RefexampleApplication - Starting RefexampleApplication on PC-201703181226 with PID 12352 (G:\developproject\target\classes started by Administrator in G:\developproject)
+16:14:54.093 [restartedMain] INFO  com.developproject.refexample.RefexampleApplication - No active profile set, falling back to default profiles: default
+16:14:57.221 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+16:14:57.223 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:14:57.225 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+16:14:57.854 [restartedMain] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+16:14:57.886 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:14:59.642 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+16:14:59.744 [restartedMain] INFO  com.developproject.refexample.RefexampleApplication - Started RefexampleApplication in 7.174 seconds (JVM running for 9.436)
+16:23:25.904 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:23:26.181 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+16:23:26.706 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+16:36:02.506 [restartedMain] INFO  com.developproject.refexample.RefexampleApplication - Starting RefexampleApplication on PC-201703181226 with PID 11132 (G:\developproject\target\classes started by Administrator in G:\developproject)
+16:36:02.524 [restartedMain] INFO  com.developproject.refexample.RefexampleApplication - No active profile set, falling back to default profiles: default
+16:36:05.703 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+16:36:05.705 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:36:05.706 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.27]
+16:36:06.255 [restartedMain] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+16:36:06.265 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:36:07.426 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+16:36:07.488 [restartedMain] INFO  com.developproject.refexample.RefexampleApplication - Started RefexampleApplication in 6.8 seconds (JVM running for 9.195)
+16:36:15.951 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:36:16.057 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+16:36:16.306 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.

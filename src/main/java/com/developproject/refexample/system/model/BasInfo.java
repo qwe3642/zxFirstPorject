@@ -1,4 +1,4 @@
-package com.developproject.system.model;
+package com.developproject.refexample.system.model;
 
 public class BasInfo {
 
